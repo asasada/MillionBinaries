@@ -1,4 +1,3 @@
-const createError = require('http-errors');
 const express = require('express');
 const request = require('request-promise');
 const http = require("http");
