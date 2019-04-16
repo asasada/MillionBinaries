@@ -14,3 +14,10 @@ and run locally.
 ### How to interact
 
 After running project returns a link to localhost. After clicking on it you will see the counted occurrence of bits.
+
+### Dependencies
+
+http
+express
+request-promise
+request
