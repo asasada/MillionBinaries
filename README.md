@@ -17,7 +17,7 @@ After running project returns a link to localhost. After clicking on it you will
 
 ### Dependencies
 
-http
-express
-request-promise
-request
+`http`
+`express`
+`request-promise`
+`request`
